@@ -1,0 +1,30 @@
+✅ 1 .- al momento de crear un usuario dar feedback o mensaje de error
+        ✔ Llevar a la pantalla donde estaba el error
+        ✔ Ir a la pantalla principal
+        ✔ Útilizar el botón de carga y deshabilitar retroceder o cargar otra imagen
+✅ 2 .- Al momento de hacer login dar feedback de que se logeo o mensaje de error
+        ✔ Debe llenar los campos
+        ✔ Mandar mensaje de contraseña o usuario invalido
+        ✔ Feedback del botón de login
+✅ 3 .- Guardar la sesión en shared preferences.
+✅ 4 .- Cerrar sesión.
+✅ 5 .- Cargar información de usuario al perfil.
+✅ 6 .- Editar perfil
+        ✔ Validar los campos
+        ✔ Actualizar la información en la sessión
+✅ 7 .- Cambiar de contraseña
+✅ 8 .- Publicar automóvil
+✅ 9 .- Cargar automoviles
+✅ 10.- Mostrar un auto
+✅ 11.- Editar automóvil
+✅ 12.- Eliminar automóvil
+✅ 13.- Buscar automóvil
+✅ 14.- Agregar método de pago
+✅ 15.- Modificar método de pago
+✅ 16.- Eliminar un método de pago
+
+✅ 17.- Agregar a favoritos
+✅ 18.- Quitar de favoritos
+✅ 19.- Traer los favoritos
+
+❌ 16.- Proceso de compra
